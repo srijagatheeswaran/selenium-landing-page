@@ -18,5 +18,5 @@ submit_button = driver.find_element(By.CSS_SELECTOR, "button.btn.btn-dark.btn-lg
 submit_button.click()
 
 
-time.sleep(30) 
+# time.sleep(30) 
 
